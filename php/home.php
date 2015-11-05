@@ -1,9 +1,27 @@
 <div id="mainArea">
  
 			<div id="landing" class="clearfix">
-				<?php
-					include("../php/banner.php");
-				?>
+								<div id="banner">
+                    <div class="leftAr"><img src="images/sliderArrow.png"></div>
+                    <div class="rightAr"><img src="images/sliderArrowRight.png"></div>
+                    <div class="pagerSlider"></div>
+					<div class="sliderWrap"
+                    data-cycle-fx=scrollHorz
+                    data-cycle-timeout=4500
+                    data-cycle-speed=300
+                    data-cycle-pause-on-hover="true"
+                    data-cycle-loader=true
+                    data-cycle-prev=".leftAr"
+                    data-cycle-next=".rightAr"
+                    data-cycle-pager=".pagerSlider"
+                    data-cycle-slides="> div"
+                    >
+                    <div class="slide"><img src="images/banner/slide2.jpg" alt="raja domino" title="raja domino"></div>
+                    <div class="slide"><img src="images/banner/slide3.jpg" alt="raja domino" title="raja domino"></div>
+							
+                    <div class="slide"><img src="images/banner/slide2.jpg" alt="raja domino" title="raja domino"></div>
+                    </div>
+				</div>
 				<div id="login">
 					<form>                
                         <h2>LOGIN</h2>
