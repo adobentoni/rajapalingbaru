@@ -449,14 +449,19 @@ marquee{
     top: 14px;
 }
 .newStatBank > li.bBca > span:last-child{
+background-image: url(http://pokermagz.com/wp-content/uploads/2015/11/bank1Indicator1.png);
 }
 .newStatBank > li.bMandiri > span:last-child{
+background-image: url(http://pokermagz.com/wp-content/uploads/2015/11/bank2Indicator1.png);
 }
 .newStatBank > li.bBri > span:last-child{
+background-image: url(http://pokermagz.com/wp-content/uploads/2015/11/bank3Indicator1.png);
 }
 .newStatBank > li.bBni > span:last-child{
+background-image: url(http://pokermagz.com/wp-content/uploads/2015/11/bank4Indicator1.png);
 }
 .newStatBank > li.bDanamon > span:last-child{
+background-image: url(http://pokermagz.com/wp-content/uploads/2015/11/bank5Indicator1.png);
 }
 .newStatBank > li > span:last-child.on{
 	background-position: 0px 0px;
