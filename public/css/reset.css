@@ -448,6 +448,16 @@ marquee{
     right: 5px;
     top: 14px;
 }
+.newStatBank > li.bBca > span:last-child{
+}
+.newStatBank > li.bMandiri > span:last-child{
+}
+.newStatBank > li.bBri > span:last-child{
+}
+.newStatBank > li.bBni > span:last-child{
+}
+.newStatBank > li.bDanamon > span:last-child{
+}
 .newStatBank > li > span:last-child.on{
 	background-position: 0px 0px;
 }
