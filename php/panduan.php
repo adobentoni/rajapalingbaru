@@ -10,15 +10,7 @@
 			<br>
 			<div id="panduanraja">
 			<br>
-            <?php
-			//	if ($_GET['id']=='2'){<div id="header-content">Panduan Bermain Domino Kiu Kiu</div>
-			//	include("../php/pandudomino02.php");
-			//	}elseif($_GET['id']=='3'){include("../php/pandudomino03.php");
-			//	}elseif($_GET['id']=='4'){include("../php/pandudomino04.php");
-			//	}else{include("../php/pandudomino01.php");}
-				
-			
-			?>
+   
 			<br>
             
 			<br>
