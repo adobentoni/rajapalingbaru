@@ -1,0 +1,233 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+
+
+
+/*    Header    */
+
+
+/*    Header    */
+
+/*    Main Area    */
+#mainArea{
+	color: #222 !important;
+	padding: 20px 0px;
+	margin: 20px 0px;
+	background: rgba(10,10,10,0.59);
+
+}
+.title {
+	text-align: center;
+  font-size: 28.808px;
+  font-weight: bold;
+  color: rgb(178, 102, 13);
+  line-height: 2.17;
+  text-align: justifyLeft;
+  -moz-transform: matrix( 1.07330259037894,0,0,1.05603567203061,0,0);
+  -webkit-transform: matrix( 1.07330259037894,0,0,1.05603567203061,0,0);
+  -ms-transform: matrix( 1.07330259037894,0,0,1.05603567203061,0,0);
+  padding: 20px 0px 70px 0px;
+  background: url(../images/title_bg.png) no-repeat center 60px;
+}
+/* PANDUAN */
+#submenu-wrapper{
+	float: left;
+  width: 280px;
+  padding: 10px;
+  height: 100%;  
+  border-radius: 4px;
+  background: -moz-linear-gradient( 90deg, rgb(16,16,16) 0%, rgb(21,20,20) 36%, rgb(50,50,50) 100%);
+  background: -webkit-linear-gradient( 90deg, rgb(16,16,16) 0%, rgb(21,20,20) 36%, rgb(50,50,50) 100%);
+  background: -ms-linear-gradient( 90deg, rgb(16,16,16) 0%, rgb(21,20,20) 36%, rgb(50,50,50) 100%);
+}
+.pagination{
+	text-align:center;
+  border-radius: 4px;
+  background-image: -moz-linear-gradient( 90deg, rgb(16,16,16) 0%, rgb(21,20,20) 36%, rgb(50,50,50) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(16,16,16) 0%, rgb(21,20,20) 36%, rgb(50,50,50) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(16,16,16) 0%, rgb(21,20,20) 36%, rgb(50,50,50) 100%);
+  width: 271px;
+  height: 41px;
+}
+.pagination li{
+	display: inline-block;
+	padding: 12px 22px;
+	vertical-align: middle;	
+}
+	.kotaktext {
+	
+	border: 1px solid #959595;
+	-webkit-border-top-left-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-topleft:8px;
+	-moz-border-radius-bottomleft:8px;
+	-moz-border-radius-topright:8px;
+	-moz-border-radius-bottomright:8px;
+	border-top-left-radius:8px;
+	border-bottom-left-radius:8px;"	
+	}
+
+	.referral{
+		float:left;
+        margin-left:auto;
+        margin-right:auto;
+		margin-bottom: 0px;
+        padding:30px;   
+		max-width: 860px;
+        background-color:#FFFFFF;        
+		font-family : Verdana, Arial, Helvetica, sans-serif;
+		font-size : 12px;
+		line-height:24px;
+		font-weight: normal;
+		color : #333333;
+		letter-spacing: 1px;
+		scrollbar-face-color:#DCDCDE;
+		scrollbar-highlight-color:#FFFFFF;
+		scrollbar-3dlight-color:#C2C2C2;
+		scrollbar-darkshadow-color:#808080;
+		scrollbar-shadow-color:#E7E7E9;
+		scrollbar-arrow-color:#FFFFFF;	
+       
+    }
+
+	#header-content{
+		font-size:20px;
+		font-weight:bold;
+		color:#959595;
+		margin-left: 50px;
+		margin-top: -40px;
+	}
+	p.panduangroup{
+  		border-radius: 4px;
+		color: #fff;
+		font-weight: bold;
+		font-size: 20px;
+		padding: 10px 50px;
+		text-align: center;
+		  background-image: -moz-linear-gradient( 90deg, rgb(16,16,16) 0%, rgb(21,20,20) 36%, rgb(50,50,50) 100%);
+		  background-image: -webkit-linear-gradient( 90deg, rgb(16,16,16) 0%, rgb(21,20,20) 36%, rgb(50,50,50) 100%);
+		  background-image: -ms-linear-gradient( 90deg, rgb(16,16,16) 0%, rgb(21,20,20) 36%, rgb(50,50,50) 100%);
+		  background-repeat: no-repeat;
+		  background-size: cover;
+	}
+
+
+	p.active, p.panduangroup:hover{
+background-image: -moz-linear-gradient( 90deg, rgb(140,95,1) 0%, rgb(229,170,56) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(140,95,1) 0%, rgb(229,170,56) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(140,95,1) 0%, rgb(229,170,56) 100%);
+  color: #000;
+	}
+	p.panduangroup a{
+		padding: 0px 30px 0px;
+		color: #c79126;
+		background: url(../images/triangle_001.png)	no-repeat right center;
+	}
+
+	p.active a,p.panduangroup:hover a {
+		color: #000;
+		background: url(../images/triangle_002.png)	no-repeat right center;
+	}
+/* PANDUAN */
+
+
+/* PROMO, PERATURAN, BANK */
+
+#promo, #peraturan, #bank{
+        margin: 10px;
+		border-radius: 5px;
+        padding:30px;   
+		max-width: 97%;
+        background-color:#FFFFFF; 	
+		color: #111;	
+}
+
+#promo{
+	padding: 30px 50px;
+}
+#promo li, #promo p{
+	padding-bottom: 10px;
+	border-bottom: solid 1px #bbb;
+}
+.promoInner{
+	padding-bottom: 20px;
+	border-bottom: solid 3px #444;	
+}
+#promo > ol {
+	padding: 10px 0px 20px;
+}
+.promoTitle{
+	font-size: 150%;
+	color: #94690e;
+	padding: 10px 35px;
+	background: url(../images/promo_bg_01.png) no-repeat 295px center, url(../images/promo_bg_02.png) no-repeat left center;
+}
+.bankTitle{
+	font-size: 130%;
+	font-weight: bold;
+	color: #94690e;
+}
+.bankInner img{
+	padding-bottom: 20px;
+	padding-right: 100px;
+}
+.bankInner > li{
+	padding: 20px 0px;
+	border-bottom: solid 1px #bbb;
+}
+.peraturanInner{
+	padding: 0px 25px;
+}
+.peraturanInner > li{
+	list-style: decimal;
+	padding-bottom:15px;
+	border-bottom: solid 1px #bbb;	
+	
+}
+	@media  (max-width: 640px){
+		#submenu-wrapper{
+	float: left;
+  width: 100%;
+  padding: 10px;
+  height: auto;
+  overflow: hidden;  
+  border-radius: 0px;
+  background: none;
+}
+	p.panduangroup{
+  		border-radius: 4px;
+		color: #fff;
+		font-weight: bold;
+		font-size: 20px;
+		padding: 10px 50px;
+		text-align: center;
+		  background-image: -moz-linear-gradient( 90deg, rgb(16,16,16) 0%, rgb(21,20,20) 36%, rgb(50,50,50) 100%);
+		  background-image: -webkit-linear-gradient( 90deg, rgb(16,16,16) 0%, rgb(21,20,20) 36%, rgb(50,50,50) 100%);
+		  background-image: -ms-linear-gradient( 90deg, rgb(16,16,16) 0%, rgb(21,20,20) 36%, rgb(50,50,50) 100%);
+		  background-repeat: no-repeat;
+		  background-size: cover;
+	}
+
+
+	p.active, p.panduangroup:hover{
+background-image: -moz-linear-gradient( 90deg, rgb(140,95,1) 0%, rgb(229,170,56) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(140,95,1) 0%, rgb(229,170,56) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(140,95,1) 0%, rgb(229,170,56) 100%);
+  color: #000;
+	}
+	p.panduangroup a{
+		padding: 0px 30px 0px;
+		color: #c79126;
+		background: url(../images/triangle_001.png)	no-repeat right center;
+	}
+
+	p.active a,p.panduangroup:hover a {
+		color: #000;
+		background: url(../images/triangle_002.png)	no-repeat right center;
+	}
+
+
+		
+	}
