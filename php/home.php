@@ -14,13 +14,8 @@
                     data-cycle-prev=".leftAr"
                     data-cycle-next=".rightAr"
                     data-cycle-pager=".pagerSlider"
-                    data-cycle-slides="> div"
-                    >
-                    <div class="slide"><img src="images/banner/slide2.jpg" alt="raja domino" title="raja domino"></div>
-                    <div class="slide"><img src="images/banner/slide3.jpg" alt="raja domino" title="raja domino"></div>
-							
-                    <div class="slide"><img src="images/banner/slide2.jpg" alt="raja domino" title="raja domino"></div>
-                    </div>
+                    data-cycle-slides="> div"  >
+                    	<div class="slide"><img src="images/banner/slide2.jpg" alt="234ewr" title=" "></div><div class="slide"><img src="images/banner/slide3.jpg" alt="dfds" title=" "></div><div class="slide"><img src="images/banner/slide3.jpg" alt="dfds" title=" "></div>                    </div>
 				</div>
 				<div id="login">
 					<form>                
