@@ -1,4 +1,4 @@
-<div id="mainArea">
+
  
 			<div id="landing" class="clearfix">
 								<div id="banner">
@@ -169,7 +169,7 @@
                     </li>
                 </ul>
             </div>
-		</div>
+	
         <script type="text/javascript" src="public/js/cycle2.js"></script>
 
 <script type="text/javascript">
