@@ -406,10 +406,13 @@ marquee{
 	bottom:0;
 	right: 10px;
 }
-.iklan1{
+.bannerik{
 	position: fixed;
 	top:300px;
 	left:0;
+}
+.bannerik li{
+	padding:10px 0px;
 }
 .newStatBank{
 	display: table;
