@@ -406,12 +406,17 @@ marquee{
 	bottom:0;
 	right: 10px;
 }
-.bannerik{
+.bannerkiri{
 	position: fixed;
 	top:50px;
 	left:0;
 }
-.bannerik li{
+.bannerkanan{
+	position: fixed;
+	top:50px;
+	right:0;
+}
+.bannerkiri li,.bannerkanan li{
 	padding:10px 0px;
 }
 .newStatBank{
