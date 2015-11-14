@@ -406,14 +406,14 @@ marquee{
 	bottom:0;
 	right: 10px;
 }
-.bannerkiri{
+.bannerkiri,.bannerkanan{
 	position: fixed;
-	top:50px;
+	top:0;
+}
+.bannerkiri{
 	left:0;
 }
 .bannerkanan{
-	position: fixed;
-	top:50px;
 	right:0;
 }
 .bannerkiri li,.bannerkanan li{
